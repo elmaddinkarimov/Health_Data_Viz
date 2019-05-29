@@ -2,7 +2,7 @@
 Data Analytics Boot Camp Group Project 3: Data Visualization
 <br><br><br>
 <strong>Please view my completed website at this link:<br>
-  - [https://healthtimes.herokuapp.com/](https://healthtimes.herokuapp.com/)</strong>
+  - [https://ekarimov.herokuapp.com/](https://ekarimov.herokuapp.com/)</strong>
 <br><br>
 
 ## HealthTimes
