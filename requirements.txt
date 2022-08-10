@@ -7,7 +7,7 @@ gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
-nbconvert==5.4.0
+nbconvert==6.3.0
 numpy==1.16.1
 pandas==0.24.1
 psycopg2==2.7.7
